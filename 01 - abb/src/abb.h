@@ -13,8 +13,6 @@ typedef enum { INORDEN, PREORDEN, POSTORDEN } abb_recorrido;
  */
 typedef int (*abb_comparador)(void *, void *);
 
-typedef struct nodo_abb nodo_abb_t;
-
 typedef struct abb abb_t;
 
 /**
