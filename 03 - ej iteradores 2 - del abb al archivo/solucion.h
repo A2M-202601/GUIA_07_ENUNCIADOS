@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
-#include "abb_iterador.h"
+#include "abb.h"
 
 typedef struct pokemon{
     char* nombre;
